@@ -16,4 +16,4 @@
 
 ![](download.jpg)
 
-[![snoopy](snoopy.jpg)](https://www.youtube.com/watch?v=WvkW9NElzzI)
+[![snoopy](snoopy.png)](https://www.youtube.com/watch?v=WvkW9NElzzI)
